@@ -1,8 +1,8 @@
 # **Guitar Effects Recognition and Parameter Estimation with Convolutional Neural Networks**
 
-![](img/pedals.jpg)
-
 ## **Pre-trained models and saved results accompaning the [gfx_classifier](https://github.com/mcomunita/gfx_classifier) code**
+
+![](img/pedals.jpg)
 
 ## **Project**
 
