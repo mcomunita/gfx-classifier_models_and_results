@@ -21,7 +21,7 @@ Despite the popularity of guitar effects, there is very little existing research
 [https://doi.org/10.5281/zenodo.4298025](https://doi.org/10.5281/zenodo.4298025)
 
 ## **Extended results**
-[https://mcomunita.github.io/gfx_classifier_page](https://mcomunita.github.io/gfx_classifier_page)
+[https://mcomunita.github.io/gfx-classifier_page](https://mcomunita.github.io/gfx-classifier_page)
 
 ## **Cite**
 ```
